@@ -3,6 +3,7 @@
 ## 6.5.2020
 ### Reflection:
 Today, I started playing with the arduino. I tried connecting it with my computer and ran some testcodes to make the arduino blink. I played with a arduino uno. I connected a DC motor to the arduino. I verified that the motor was able to run.
+<img src="https://github.com/Kevin0u/ArduinoRobotics2020/blob/master/static/images/6.5.2020.jpeg?raw=true" width="400" height="790">
 
 ## 6.15.2020
 ### Reflection:
@@ -11,6 +12,7 @@ Today, I realized that in order to make my motor run properly, I need a motor co
 ## 6.22.2020
 ### Reflection:
 Today, my motor controller and other parts arrived. I now have LED's, LCD displays, Piezo Speakers, wires, a servo motor, and 2 geared DC motors.
+<img src="https://github.com/Kevin0u/ArduinoRobotics2020/blob/master/static/images/6.15.2020.jpeg?raw=true" width="400" height="790">
 
 ## 7.2.2020
 ### Reflection: 
