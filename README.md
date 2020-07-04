@@ -3,6 +3,7 @@
 ## 6.5.2020
 #### Reflection:
 Today, I started playing with the arduino. I tried connecting it with my computer and ran some testcodes to make the arduino blink. I played with a arduino uno. I connected a DC motor to the arduino. I verified that the motor was able to run.
+
 <img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/6.5.2020.jpeg" width="400">
 
 ## 6.15.2020
