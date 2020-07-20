@@ -1,3 +1,5 @@
+// This is a softpot project to modify PWM LED with analog input
+
  const int ledPin = 3;
  const int SoftPin = A0; //pin A0 to read analog input
 
@@ -20,7 +22,7 @@
 
 
 
-
+ 
 
 
 
