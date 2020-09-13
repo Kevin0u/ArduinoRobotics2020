@@ -83,3 +83,15 @@ Today, I experimented with the IR sensor. While experimenting with the sensor, I
 Today I attempted to connect my motor and the L298N motor driver. I found out that I could keep the jumper and set the motor speed to be high or low instead of using enable pins to control the speed of the motor. After connecting the motor and the motor driver, I decided to test out the system by connecting it to a power supply. However, when I connected the wires to the battery, the motor did not budge. I took me a bit to realize that the battery was not a 12 volt battery but rather an 8.4 v battery. This resulted in the motor driver input not receiving enough power for the motor to spin so the motor would not run. In order to correct this, I gave an attempt at the 5v input but this also gave similar results. The motor did not function as it normally would and the reason was that the input was outside the acceptable range for the motor. After going through this, we decided to try and utilize the Pololu dual motor shield as the new motor driver. With the new motor driver, we were able to effectively get the motor to start spinning. However, during the process, a problem arose as the LCD display produced random numbers and symbols and not the values from the gyroscope. After dismembering the LCD display and attempting to reconnect the wires multiples times, the LCD display produced the same results. From this result, we decided to remove the LCD display from the robot. 
 
 <img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/8.16.2020.jpeg" width="400">
+
+## 8.23.2020
+#### Reflection:
+Today, I started to work on building the foundation of my robot. I attempted building a potential design for how my robot would be structured. I planted my breadboard, Arduino, motor driver and battery onto the foundation to estimate the amount of space that was going to be needed to support the components. To build a stable chassis, I had to adjust the height of the ball caster so that the platform supporting the components would be flat instead of being slanted. 
+
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/8.23.2020.jpeg" width="400">
+
+## 8.30.2020
+#### Reflection:
+Today, I continued to work on the chassis. I decided to use cardboard once again as I could not find a software to utilize my 3D-printer for this project. During the build process of my second chassis, I used specific measurements to stabilize the Arduino board as the center. I then placed the breadboard and battery around the Arduino so that I would still be able to connect the wires. By building the chassis in this form, I would be able to have better wire management and greater stability while the robot is moving around.
+
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/8.30.2020.jpeg" width="400">
