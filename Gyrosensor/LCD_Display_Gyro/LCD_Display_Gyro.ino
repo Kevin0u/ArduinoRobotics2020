@@ -109,7 +109,7 @@ L3G gyro;
 LiquidCrystal lcd(12,11,5,4,3,2);
 
 void setup()
-{
+{wir
   // The LiquidCrystal library can be used with many different
   // LCD sizes. We're using one that's 2 lines of 16 characters,
   // so we'll inform the library of that:
@@ -188,9 +188,13 @@ void loop()
   // Now we'll print the number of seconds (millis() / 1000)
   // since the Arduino last reset:
     gyro.read();
-    String xcoord = (String)gyro.x;
-    String ycoord = (String)gyro.y;
-    String zcoord = (String)gyro.z;
+    Serial.print("X: ");
+    Serial.println(gyro.g.x);
+    
+    
+    String xcoord = (String)gyro.g.x;
+    String ycoord = (String)gyro.g.y;
+    String zcoord = (String)gyro.g.z;
     
     String xinput = ( "X: " + xcoord);
     String yinput = ( "Y: " + ycoord);
