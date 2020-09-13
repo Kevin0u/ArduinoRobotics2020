@@ -1,4 +1,4 @@
-byte sensorPin=0;
+byte sensorPin=2;
 int latestVal=0;
 int maxVal=0;
 int minVal=1024; 
