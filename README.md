@@ -95,3 +95,66 @@ Today, I started to work on building the foundation of my robot. I attempted bui
 Today, I continued to work on the chassis. I decided to use cardboard once again as I could not find a software to utilize my 3D-printer for this project. During the build process of my second chassis, I used specific measurements to stabilize the Arduino board as the center. I then placed the breadboard and battery around the Arduino so that I would still be able to connect the wires. By building the chassis in this form, I would be able to have better wire management and greater stability while the robot is moving around.
 
 <img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/8.30.2020.jpeg" width="400">
+
+## 9.5.2020
+#### Reflection:
+We purchased a 3D printer. We are using the Creality Ender 3 Pro 3D printer for our robot endeavors
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/9.5.2020.jpeg" width="400">
+
+
+## 9.12.2020
+#### Reflection:
+Learning how to 3D model using a variety of softwares including TinkerCad and Fusion360
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/9.12.2020.jpeg" width="400">
+
+
+## 9.19.2020
+#### Reflection:
+3D Printed Robotic Chassis with what I had built previously
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/9.19.2020.jpeg" width="400">
+
+
+## 9.27.2020
+#### Reflection:
+Building a flex sensor based robot, based on what I experimented with earlier in August, I want to make a motor move based on how much I flex the softpot sensor.
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/9.27.2020.jpeg" width="400">
+
+## 10.10.2020
+#### Reflection:
+Embedding a softpot flex sensor into a glove to mimic hand movements based on a clenched fist or open palm.
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/10.10.2020.jpeg" width="400">
+
+## 10.25.2020
+#### Reflection:
+Waiting on my new components. I want to downsize my micromouse robot into a smaller part. To contribute to the size difference, I will be using the Adafruit Bluefruit microcontroller with an adapted DC motor controller shield for easier connection. However, unfortunately, I do not have the necessary stacking headers to complete this project at this time.
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/10.25.2020.jpeg" width="400">
+
+
+## 11.1.2020
+#### Progress:
+I will be taking a short hiatus to work on college applications! Wish me luck.
+
+
+## 12.2.2020
+#### Reflection:
+Thanks to all the stuff we bought for Thanksgiving and Black Friday, I made a small maze for my robot!
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/12.2.2020.jpeg" width="400">
+
+## 12.9.2020
+#### Progress:
+Spending some time to work on my robot again. I soldered the headers on the robot with the new microcontroller. This time I'll try to get it moving in a straight line. I'll need to purchase a battery if I want it to not be tethered to my computer.
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/12.9.2020.jpeg" width="400">
+
+## 12.24.2020
+#### Progress:
+Winter break couldn't have come sooner! I havent purchased the battery yet, but it seems to be able to meander through the cardboard maze pretty well. So far it's moving properly, it's not really accurate when it detects a maze opening. 
+
+
+## 12.25.2020
+#### Progress:
+My "algorithm" will turn left at every chance that it gets. Check out the video below for the full maze solving feature! I really tried and it seems to be working properly.
+<img src="https://raw.githubusercontent.com/Kevin0u/ArduinoRobotics2020/master/static/images/12.25.2020.jpeg" width="400">
+
+## 12.28.2020
+#### Progress:
+I'm looking into more advanced pathfinding algorithms based on what was shown here https://www.alexhadik.com/work/micromouse/. I think the flood fill algorithm is really interesting, but it's also really complicated. Hopefully I can understand this soon, but I don't think I would be for the time being. I think I need to learn more about recursion to better understand this concept.
